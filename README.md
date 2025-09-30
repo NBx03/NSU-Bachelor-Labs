@@ -15,6 +15,17 @@
 
 ## 📚 Содержание
 
+### 🎯 Учебные пособия
+
+<div align="center">
+
+[![Си для чайников](https://img.shields.io/badge/C-Туториал-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/NBx03/NSU-Bachelor-Labs/blob/main/tutorials/C_for_dummies.c)
+[![C++ для чайников](https://img.shields.io/badge/C++-Туториал-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/NBx03/NSU-C-Programming/blob/main/tutorials/C++_for_dummies.cpp)
+
+</div>
+
+Авторские учебные пособия по основам программирования, написанные в ходе обучения.
+
 ### 1️⃣ Первый курс
 
 #### Программирование на C
